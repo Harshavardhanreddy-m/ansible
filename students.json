@@ -1,8 +1,8 @@
 {
     "students": [
         {
-            "firstName": "Sivakumar Reddy",
-            "dob": "1991-01-01",
+            "firstName": "Harsha",
+            "dob": "1999-03-15",
         
             "addresses": [ 
                 {
@@ -21,8 +21,8 @@
             "skills": ["java", "devops", "cloud"]
         },
         {
-            "firstName": "Sivakumar Reddy",
-            "dob": "1991-01-01",
+            "firstName": "Harsha",
+            "dob": "1999-03-15",
         
             "addresses": [ 
                 {
